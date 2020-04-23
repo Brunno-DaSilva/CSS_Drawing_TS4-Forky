@@ -10,6 +10,6 @@ document.onmousemove = () =>{
   for(let i=0;i<2;i++){
     followMouse[i].style.left = x;
     followMouse[i].style.top = y;
-    followMouse[i].style.transform = "translate(-"+x+",-"+y+")";
+    followMouse[i].style.transform = `translate(-${x},-${y})`
   }
 }
