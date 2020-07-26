@@ -11,9 +11,9 @@ Puere CSS draw Toy Story -Forky. Also, I added a little bit of Javascript to mak
 
 ---
 
-### Demo: https://dasilvabrunotexas.github.io/CSS_Drawing_TS4-Forky/
+### Demo: https://brunno-dasilva.github.io/CSS_Drawing_TS4-Forky/
 
-##### CodePen: https://codepen.io/dasilvabrunotexas/pen/NWGddyJ
+##### CodePen: https://codepen.io/bruno-dasilva/pen/NWGddyJ
 
 
 ###### I am learning to draw using pure CSS, this time i followed the tutorial posted byCredit foes to the step-by-sep guide at Please check it out https://redstapler.co/css-drawing-tutorial-for-beginners/
